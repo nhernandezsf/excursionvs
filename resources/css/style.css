@@ -4,9 +4,13 @@ body {
     font-family: Veranda, Genevea, Tahoma, sans-serif;
 }
 
-header--main {
+.header--main {
     font-weight: normal;
     font-size: 50px;
-    color: white;
-    
+        color: white;
+}
+
+.link--cta {
+    font-size: 16x;
+    color: aquamarine;
 }
